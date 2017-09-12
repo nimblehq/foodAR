@@ -1,0 +1,45 @@
+[
+    {
+        "modelName": "candle",
+        "displayName": "Candle",
+        "particleScaleInfo": {"flame": 0.018 },
+         "price": "$10"
+    },
+    {
+        "modelName": "cup",
+        "displayName": "Cup",
+        "particleScaleInfo": { },
+         "price": "$15"
+    },
+    {
+        "modelName": "vase",
+        "displayName": "Vase",
+        "particleScaleInfo": { },
+         "price": "$35"
+    },
+    {
+        "modelName": "lamp",
+        "displayName": "Lamp",
+        "particleScaleInfo": { },
+         "price": "$35"
+    },
+    {
+        "modelName": "chair",
+        "displayName": "Chair",
+        "particleScaleInfo": { },
+         "price": "$45"
+    },
+     {
+         "modelName": "ivysaur",
+         "displayName": "Ivysaur",
+         "particleScaleInfo": { },
+         "price": "$100"
+     },
+     {
+         "modelName": "orange",
+         "displayName": "Orange",
+         "particleScaleInfo": { },
+         "price": "$5"
+     }
+]
+ 
